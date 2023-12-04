@@ -19,15 +19,19 @@ body {
 h1 {
     font-weight: bold;
     font-size: xx-large;
+    margin-bottom: 0;
 
     color: black;
 }
 
 h2 {
-    margin-top: 100px;
+    margin: 0;
+}
+
+.credits {
+    margin: 0;
     font-weight: lighter;
-    line-height: 1.6%;
-    text-align: left;
+    font-size: small;
 
     color: gray;
 }
@@ -35,13 +39,7 @@ h2 {
 #the-booleaner {
     font-weight: bold;
 
-    color: #4ea0ff;
-}
-
-.writing-date {
-    font-weight: lighter;
-
-    color: gray;
+    color: #28ace6;
 }
 
 /* end main title */
@@ -110,6 +108,17 @@ h2 {
 
 
 /* start footer section */
+
+.footer-title {
+    font-size: medium;
+
+    margin-top: 50px;
+    font-weight: lighter;
+    text-align: left;
+
+    color: gray;
+}
+
 #img-monitor {
     margin-top: 10px;
     background-image: url('../img/monitor.jpg');
