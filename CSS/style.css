@@ -3,6 +3,19 @@ body {
 }
 
 /* start header */
+
+/* start top banner section  */
+.banner {
+    height: 30%;
+    width: 100%;
+    background-color: #4ea0ff;
+
+}
+
+
+/* end top banner section  */
+
+/* start main title */
 h1 {
     font-weight: bold;
     font-size: xx-large;
@@ -28,6 +41,8 @@ h2 {
 
     color: gray;
 }
+
+/* end main title */
 
 /* end header */
 
