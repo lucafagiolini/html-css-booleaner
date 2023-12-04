@@ -61,3 +61,28 @@ h2 {
 }
 
 /* end main paragraph */
+
+
+
+
+/* start table section */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.head-raw {
+    display: inline-block;
+    width: 40%;
+
+    background-color: #20a9e5;
+    color: white;
+    font-weight: bold;
+}
+
+.odd-raw {
+    width: 40%;
+
+    background-color: #b1e5f2;
+    color: black;
+}
