@@ -24,8 +24,10 @@ h1 {
 }
 
 h2 {
+    margin-top: 100px;
     font-weight: lighter;
     line-height: 1.6%;
+    text-align: left;
 
     color: gray;
 }
@@ -107,7 +109,7 @@ h2 {
 
 /* start footer section */
 #img-monitor {
-    margin: 10px;
+    margin-top: 10px;
     background-image: url('../img/monitor.jpg');
     background-repeat: no-repeat;
     color: #FFFFFF;
@@ -121,7 +123,7 @@ h2 {
 }
 
 #img-graph {
-    margin: 10px;
+    margin-top: 10px;
     background-image: url('../img/graph.jpg');
     background-repeat: no-repeat;
     color: #FFFFFF;
