@@ -101,3 +101,35 @@ h2 {
     background-color: #b1e5f2;
     color: black;
 }
+
+/* end table section */
+
+
+/* start footer section */
+#img-monitor {
+    margin: 10px;
+    background-image: url('../img/monitor.jpg');
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background-color: red;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 260px;
+    text-align: left;
+    width: 240px;
+    height: 150px;
+}
+
+#img-graph {
+    margin: 10px;
+    background-image: url('../img/graph.jpg');
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background-color: red;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 260px;
+    text-align: left;
+    width: 240px;
+    height: 150px;
+}
