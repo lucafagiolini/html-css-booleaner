@@ -60,7 +60,9 @@ h2 {
 }
 
 .photo-description {
+    text-align: left;
     font-weight: lighter;
+    font-size: smaller;
     line-height: 0%;
 }
 
