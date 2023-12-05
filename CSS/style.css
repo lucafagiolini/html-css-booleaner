@@ -128,6 +128,27 @@ ul {
 
 
 /* start table section */
+table {
+    border-collapse: collapse;
+    margin-top: 50px;
+}
+
+thead {
+    background-color: #28ace6;
+    color: white;
+}
+
+th {
+    text-align: left;
+}
+
+.colored-background {
+    background-color: #b2e4f2;
+}
+
+.raw-quarter {
+    width: 25%;
+}
 
 /* end table section */
 
