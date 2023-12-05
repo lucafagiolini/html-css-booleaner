@@ -79,11 +79,30 @@ h2 {
 
 /* end main paragraph */
 
+/* start unordered litst */
+ul {
+    list-style: square;
+}
+
+.unordered-list {
+    text-align: left;
+    margin-top: 50px;
+}
+
+.unordered-list-padding {
+    margin-left: 1em;
+    text-align: left;
+}
+
+
+/* end unordered list */
+
 
 
 
 /* start table section */
 .table {
+    margin-top: 50px;
     width: 100%;
     border-collapse: collapse;
 }
