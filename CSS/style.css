@@ -11,12 +11,16 @@ body {
 
     background-image: url("../img/pattern.png");
     background-color: #4ea0ff;
-
+    background-size: auto 200%;
 }
 
 #logo {
-    width: 370px;
+    width: 160px;
     height: auto;
+
+    margin-top: 24;
+    margin-bottom: 12px;
+    margin-left: 6px;
 }
 
 /* end navbar section  */
