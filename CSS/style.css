@@ -81,16 +81,24 @@ h1 {
 
 
 
+
+
+
+
+
 /* start main paragraph */
 .main-paragraph {
     margin-top: 50px;
 }
 
-.highlight-text {
-    background-color: yellow;
-}
-
 /* end main paragraph */
+
+
+
+
+
+
+
 
 /* start unordered litst */
 ul {
@@ -109,6 +117,8 @@ ul {
 
 
 /* end unordered list */
+
+
 
 
 
@@ -137,6 +147,11 @@ ul {
 }
 
 /* end table section */
+
+
+
+
+
 
 
 /* start footer section */
