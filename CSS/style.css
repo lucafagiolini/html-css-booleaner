@@ -8,10 +8,16 @@ body {
 .banner {
     height: 30%;
     width: 100%;
+
+    background-image: url("../img/pattern.png");
     background-color: #4ea0ff;
 
 }
 
+#logo {
+    width: 370px;
+    height: auto;
+}
 
 /* end navbar section  */
 
