@@ -135,7 +135,7 @@ ul {
 
 /* start footer section */
 
-.footer-title {
+h2 {
     font-size: medium;
 
     margin-top: 50px;
@@ -146,29 +146,37 @@ ul {
 }
 
 #img-monitor {
+    width: 250px;
+    height: 180px;
     margin-top: 10px;
+
     background-image: url('../img/monitor.jpg');
+    background-size: 100% 100%;
     background-repeat: no-repeat;
-    color: #FFFFFF;
-    background-color: red;
+
+    color: white;
     font-size: 120%;
-    font-weight: normal;
+    font-weight: bold;
     line-height: 95%;
     text-align: left;
-    width: 240px;
-    height: 150px;
 }
 
 #img-graph {
+    width: 250px;
+    height: 180px;
     margin-top: 10px;
+
     background-image: url('../img/graph.jpg');
+    background-size: 100% 100%;
     background-repeat: no-repeat;
-    color: #FFFFFF;
-    background-color: red;
+
+    color: white;
     font-size: 120%;
-    font-weight: normal;
+    font-weight: bold;
     line-height: 95%;
     text-align: left;
-    width: 240px;
-    height: 150px;
+}
+
+.article-margin-left {
+    margin: 10px;
 }
