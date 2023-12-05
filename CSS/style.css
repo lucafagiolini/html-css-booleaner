@@ -47,6 +47,7 @@ h1 {
     font-weight: bold;
 
     color: #28ace6;
+    text-decoration: none;
 }
 
 .date {
@@ -70,10 +71,10 @@ h1 {
 }
 
 .photo-description {
+    margin-top: 0.1em;
     text-align: left;
     font-weight: lighter;
     font-size: smaller;
-    line-height: 0%;
 }
 
 /* end photo gallery section*/
